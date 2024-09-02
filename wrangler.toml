@@ -13,7 +13,7 @@ custom_domain = true
 
 [vars]
  UUID = "9abb6e0b-7d66-45d8-840d-b52f649b37c6"
-# PROXYIP = "1.2.3.4"
+ PROXYIP = "cdn-all.xn--b6gac.eu.org,cdn.xn--b6gac.eu.org,edgetunnel.anycast.eu.org,proxyip.fxxk.dedyn.io"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
